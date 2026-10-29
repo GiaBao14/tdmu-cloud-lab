@@ -6,7 +6,7 @@
     "ghcr.io/devcontainers/features/docker-in-docker:2": {},
     "ghcr.io/devcontainers/features/java:1": {
       "version": "25",
-      "installMaven": "true"
+      "installMaven": true
     }
   },
   "forwardPorts": [3000],
